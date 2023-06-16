@@ -1,8 +1,8 @@
 # DAX Optimizer
 
-<img src="assets/images/logo.svg" width="200">
-
 This repository collects all the issues related to the DAX Optimizer service.
+
+<img src="assets/images/logo.svg" width="200">
 
 To access the service, visit [https://app.daxoptimizer.com](https://app.daxoptimizer.com)
 
