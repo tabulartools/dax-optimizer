@@ -1,6 +1,9 @@
 # DAX Optimizer
-This repository collects all the issues related to [DAX Optimizer](https://daxoptimizer.com) service.
 
-To access the service, visit [https://daxoptimizer.com](https://daxoptimizer.com).
+<img src="assets/images/logo.svg" width="150">
 
-To **submit bugs**, **feature requests**, and **general questions**: [https://github.com/tabulartools/dax-optimizer/issues](https://github.com/tabulartools/dax-optimizer/issues).
+This repository collects all the issues related to the DAX Optimizer service.
+
+To access the service, visit [https://app.daxoptimizer.com](https://app.daxoptimizer.com)
+
+To submit bugs, feature requests, or general questions: [Submit an Issue](issues/new/choose)
